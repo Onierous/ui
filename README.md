@@ -1,6 +1,8 @@
 # Ui
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
+This project scaffolding was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
+
+This will be the front-end for my grocery tracking application. Allowing the user to interact with the API to store data in the MongoDB.
 
 ## Development server
 
